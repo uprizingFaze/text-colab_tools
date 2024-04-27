@@ -62,7 +62,7 @@
 
 ```bash
 git clone https://github.com/uprizingFaze/text-colab_tools.git
-cd Colab_Tools
+cd text-colab_tools
 ```
 
 #####  Instalación de dependencias:
