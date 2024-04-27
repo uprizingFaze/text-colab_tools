@@ -30,42 +30,42 @@ export async function POST(request: NextRequest) {
 
 const USER_INFO = [
   {
-    name: "Charlie Layne",
+    name: "uprizingFaze",
     color: "#D583F0",
-    picture: "https://liveblocks.io/avatars/avatar-1.png",
+    picture: "https://avatars.githubusercontent.com/u/111722885?s=96&v=4",
   },
   {
-    name: "Mislav Abha",
+    name: "El Rincón Del Dev",
     color: "#F08385",
     picture: "https://liveblocks.io/avatars/avatar-2.png",
   },
   {
-    name: "Tatum Paolo",
+    name: "Afor",
     color: "#F0D885",
     picture: "https://liveblocks.io/avatars/avatar-3.png",
   },
   {
-    name: "Anjali Wanda",
+    name: "uprizingFaze",
     color: "#85EED6",
-    picture: "https://liveblocks.io/avatars/avatar-4.png",
+    picture: "https://avatars.githubusercontent.com/u/111722885?s=96&v=4",
   },
   {
-    name: "Jody Hekla",
+    name: "El Rincón Del Dev",
     color: "#85BBF0",
     picture: "https://liveblocks.io/avatars/avatar-5.png",
   },
   {
-    name: "Emil Joyce",
+    name: "Afor",
     color: "#8594F0",
     picture: "https://liveblocks.io/avatars/avatar-6.png",
   },
   {
-    name: "Jory Quispe",
+    name: "uprizingFaze",
     color: "#85DBF0",
-    picture: "https://liveblocks.io/avatars/avatar-7.png",
+    picture: "https://avatars.githubusercontent.com/u/111722885?s=96&v=4",
   },
   {
-    name: "Quinn Elton",
+    name: "El Rincón Del Dev",
     color: "#87EE85",
     picture: "https://liveblocks.io/avatars/avatar-8.png",
   },
