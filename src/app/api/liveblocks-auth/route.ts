@@ -37,12 +37,12 @@ const USER_INFO = [
   {
     name: "El Rincón Del Dev",
     color: "#F08385",
-    picture: "https://liveblocks.io/avatars/avatar-2.png",
+    picture: "https://avatars.githubusercontent.com/u/109598200?s=96&v=4",
   },
   {
     name: "Afor",
     color: "#F0D885",
-    picture: "https://liveblocks.io/avatars/avatar-3.png",
+    picture: "https://avatars.githubusercontent.com/u/43246362?s=96&v=4",
   },
   {
     name: "uprizingFaze",
@@ -52,12 +52,12 @@ const USER_INFO = [
   {
     name: "El Rincón Del Dev",
     color: "#85BBF0",
-    picture: "https://liveblocks.io/avatars/avatar-5.png",
+    picture: "https://avatars.githubusercontent.com/u/109598200?s=96&v=4",
   },
   {
     name: "Afor",
     color: "#8594F0",
-    picture: "https://liveblocks.io/avatars/avatar-6.png",
+    picture: "https://avatars.githubusercontent.com/u/43246362?s=96&v=4",
   },
   {
     name: "uprizingFaze",
@@ -67,6 +67,6 @@ const USER_INFO = [
   {
     name: "El Rincón Del Dev",
     color: "#87EE85",
-    picture: "https://liveblocks.io/avatars/avatar-8.png",
+    picture: "https://avatars.githubusercontent.com/u/109598200?s=96&v=4",
   },
 ];
